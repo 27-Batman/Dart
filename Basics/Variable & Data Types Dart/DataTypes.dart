@@ -26,5 +26,11 @@ void main() {
 
   print(multiline);
 
+  //Special Characters: Special characters can be used in strings using backslash \
+  // \n for new line
+  // \t for tab
+  print("I am a \nDeveloper");
+  print("I am a \tDeveloper");
+
   
 }
