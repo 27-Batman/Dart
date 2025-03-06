@@ -8,6 +8,7 @@ void main() {
 
     num number = 10; // num can store both int and double values
     const pi = 3.14; // const is used to declare constant values
+    var x = 10; // var is used to sotring any type of value Eg, int, double, String, bool
 
     print("Name: $name");
     print("Age: $age");
@@ -15,5 +16,6 @@ void main() {
     print("Is Student: $isStudent");
     print("Number: $number");
     print("PI: $pi");
+    print("X: $x");
 
 }
