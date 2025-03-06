@@ -32,5 +32,11 @@ void main() {
   print("I am a \nDeveloper");
   print("I am a \tDeveloper");
 
-  
+  //Raw Strings: Raw strings can be created using r before the string. It ignores the special characters
+  num paisa = 10;
+  String withoutRaw = "The price of the product is $paisa";
+  String withRaw = r"The price of the product is $paisa";
+
+  print("Without Raw: $withoutRaw");
+  print("With Raw: $withRaw");
 }
