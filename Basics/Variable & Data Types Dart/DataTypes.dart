@@ -14,5 +14,17 @@ void main() {
   double price = 1130.2232323233233; // tosringAsFixed() is used to format the decimal values
   print(price.toStringAsFixed(2));
 
+  //Strings
+  String name = "Bruce"; //String for text values
+  print("Name: $name");
+
+  //Multiline Strings: Multiline strings can be created using three single quotes ''' ''' or three double quotes """ """
+  String multiline = """
+  This is Multiline Text
+  You can write multiple lines
+  using three single quotes""";
+
+  print(multiline);
+
   
 }
