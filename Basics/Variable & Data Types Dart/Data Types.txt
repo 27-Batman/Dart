@@ -16,3 +16,5 @@ Dart Supports the following built-in data types
 |Null 	   |  null 	             | It represents null value                               |
 -------------------------------------------------------------------------------------------
 
+Type Conversion in Dart
+In dart, type conversion allows you to convert one data type to another type. For eg. to convert String to int, int to String or String to bool, etc.
