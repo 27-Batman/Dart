@@ -32,3 +32,13 @@ Operator Symbol 	  Operator Name 	Description
 var++ 	              Post Increment 	Increase Value By 1. var = var + 1 Expression value is var
 var-- 	              Post Decrement 	Decrease Value By 1. var = var - 1 Expression value is var
 
+3.Assignment Operators
+
+It is used to assign some values to variables. Here, we are assigning 24 to the age variable.
+
+Operator Type 	Description
+= 	            Assign a value to a variable
++= 	            Adds a value to a variable
+-= 	            Reduces a value to a variable
+*= 	            Multiply value to a variable
+/= 	            Divided value by a variable
