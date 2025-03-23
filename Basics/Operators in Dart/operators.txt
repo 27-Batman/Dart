@@ -55,3 +55,4 @@ Operator Symbol 	Operator Name 	            Description
 <= 	                Less than or equal to 	    Used to check which operand is smaller or equal and gives result as boolean
 == 	                Equal to 	                Used to check operands are equal to each other and gives result as boolean
 != 	                Not equal to 	            Used to check operand are not equal to each other and gives result as boolean
+
