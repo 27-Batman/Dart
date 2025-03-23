@@ -1,0 +1,23 @@
+Operators In Dart:
+    Operators are used to perform mathematical and logical operations on the variables.
+
+Types of Operators:
+    They are different types of operators in dart
+        1.Arthmetic Operators
+        2.Increment and Decrement Operators
+        3.Assignment Operators
+        4.logical Operators
+        5.Type Test Operators
+
+1. Arithmetic Operators
+
+Arithmetic operators are the most common types of operators. They perform operations like addition, subtraction, multiplication, division, etc.
+Operator Symbol |    Operator Name  	Description
+            + 	|         Addition  	For adding two operands
+            - 	|      Subtraction 	    For subtracting two operands
+        -expr 	|      Unary Minus 	    For reversing the sign of the expression
+            * 	|   Multiplication 	    For multiplying two operands
+            / 	|         Division 	    For dividing two operands and give output in double
+           ~/ 	| Integer Division 	    For dividing two operands and give output in integer
+            % 	|          Modulus 	    Remainder After Integer Division
+
