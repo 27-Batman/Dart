@@ -21,3 +21,14 @@ Operator Symbol |    Operator Name  	Description
            ~/ 	| Integer Division 	    For dividing two operands and give output in integer
             % 	|          Modulus 	    Remainder After Integer Division
 
+
+2.Increment and Decrement Operators
+
+with increment and decrement operators, you can increase and decrease values.
+
+Operator Symbol 	  Operator Name 	Description
+++var 	              Pre Increment 	Increase Value By 1. var = var + 1 Expression value is var+1
+--var 	              Pre Decrement 	Decrease Value By 1. var = var - 1 Expression value is var-1
+var++ 	              Post Increment 	Increase Value By 1. var = var + 1 Expression value is var
+var-- 	              Post Decrement 	Decrease Value By 1. var = var - 1 Expression value is var
+
