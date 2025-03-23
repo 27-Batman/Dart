@@ -6,8 +6,9 @@ Types of Operators:
         1.Arthmetic Operators
         2.Increment and Decrement Operators
         3.Assignment Operators
-        4.logical Operators
-        5.Type Test Operators
+        4.Relational Operators
+        5.logical Operators
+        6.Type Test Operators
 
 1. Arithmetic Operators
 
@@ -42,3 +43,15 @@ Operator Type 	Description
 -= 	            Reduces a value to a variable
 *= 	            Multiply value to a variable
 /= 	            Divided value by a variable
+
+4.Relational Operators
+
+Relational operators are also called comparison operators. They are used to make a comparison.
+
+Operator Symbol 	Operator Name 	            Description
+> 	                Greater than 	            Used to check which operand is bigger and gives result as boolean
+< 	                Less than 	                Used to check which operand is smaller and gives result as boolean
+>= 	                Greater than or equal to 	Used to check which operand is bigger or equal and gives result as boolean
+<= 	                Less than or equal to 	    Used to check which operand is smaller or equal and gives result as boolean
+== 	                Equal to 	                Used to check operands are equal to each other and gives result as boolean
+!= 	                Not equal to 	            Used to check operand are not equal to each other and gives result as boolean
