@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_type_check
+
 void main() {
   String value1 = "Dart Tutorial";
   int age = 10;
