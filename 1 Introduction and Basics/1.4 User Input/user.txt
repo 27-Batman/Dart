@@ -1,0 +1,7 @@
+User Input
+    In Dart, you can take input from the user throught the console via the use of .readLineSync() function.
+    To take input from the console you need to import a library, named dart:io from libraries in Dart.
+
+Stdlin Class
+    This class allows the user to read data from standard input in both synchronous and asynchronous ways. 
+    The method readLineSync() is one of the methods used to take input from the user
