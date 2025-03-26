@@ -11,4 +11,9 @@ void main() {
   print("Enter number");
   int? number = int.parse(stdin.readLineSync()!);
   print("The entered number is ${number}");
+
+  //Floating Point user Input
+  print("Enter a floating number: ");
+  double? num = double.parse(stdin.readLineSync()!);
+  print("The entered number is $num");
 }
